@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio_I01_Clase3/1.0.0": {
+        "dependencies": {
+          "Prestamos": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_I01_Clase3.dll": {}
+        }
+      },
+      "Prestamos/1.0.0": {
+        "runtime": {
+          "Prestamos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_I01_Clase3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prestamos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\bin\Debug\net5.0\Prestamos.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\bin\Debug\net5.0\Prestamos.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\bin\Debug\net5.0\Prestamos.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\Prestamos.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\Prestamos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\Prestamos.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\Prestamos.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\Prestamos.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\Prestamos.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\refint\Prestamos.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\Prestamos.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I01_Clase3\Prestamos\obj\Debug\net5.0\ref\Prestamos.dll
