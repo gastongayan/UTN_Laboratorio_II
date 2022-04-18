@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bbc9d72-57d6-4a0e-aa32-f5a5e8adc45a": {
+      "ProjectGuid": "9bbc9d72-57d6-4a0e-aa32-f5a5e8adc45a",
+      "DisplayName": "Ejercicio_I06_Clase2",
+      "ColorIndex": 0
+    },
+    "99b42c7b-3aa4-4755-8740-ac3046c09e85": {
+      "ProjectGuid": "99b42c7b-3aa4-4755-8740-ac3046c09e85",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,12 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\bin\Debug\net5.0\Metodos.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\bin\Debug\net5.0\Metodos.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\bin\Debug\net5.0\Metodos.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\Metodos.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\Metodos.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\Metodos.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\refint\Metodos.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\Metodos.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02\Metodos\obj\Debug\net5.0\ref\Metodos.dll

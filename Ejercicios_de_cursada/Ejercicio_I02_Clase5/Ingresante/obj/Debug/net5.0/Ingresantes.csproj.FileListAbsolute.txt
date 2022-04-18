@@ -1,0 +1,12 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\Ingresantes.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\Ingresantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\Ingresantes.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\Ingresantes.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\Ingresantes.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\bin\Debug\net5.0\Ingresantes.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\bin\Debug\net5.0\Ingresantes.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\bin\Debug\net5.0\Ingresantes.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\Ingresantes.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\refint\Ingresantes.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\Ingresantes.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase5\Ingresante\obj\Debug\net5.0\ref\Ingresantes.dll

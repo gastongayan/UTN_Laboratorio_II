@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_I02_Clase5", "Ejercicio_I02_Clase5\Ejercicio_I02_Clase5.csproj", "{D0271892-C06C-4AD8-8054-EDCBC9B5DBFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingresantes", "Ingresante\Ingresantes.csproj", "{E3CBDC70-0B44-4691-983B-792799098AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0271892-C06C-4AD8-8054-EDCBC9B5DBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0271892-C06C-4AD8-8054-EDCBC9B5DBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0271892-C06C-4AD8-8054-EDCBC9B5DBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0271892-C06C-4AD8-8054-EDCBC9B5DBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CBDC70-0B44-4691-983B-792799098AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CBDC70-0B44-4691-983B-792799098AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CBDC70-0B44-4691-983B-792799098AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CBDC70-0B44-4691-983B-792799098AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B610B1E-7595-4BC7-8D7A-42094D0BFAFB}
+	EndGlobalSection
+EndGlobal

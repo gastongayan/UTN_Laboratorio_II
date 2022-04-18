@@ -1,0 +1,12 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\Billetes.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\Billetes.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\bin\Debug\net5.0\Billetes.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\bin\Debug\net5.0\Billetes.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\bin\Debug\net5.0\Billetes.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\Billetes.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\refint\Billetes.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\Billetes.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase4\Billetes\obj\Debug\net5.0\ref\Billetes.dll

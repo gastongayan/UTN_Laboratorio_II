@@ -1,0 +1,16 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder02.exe
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder02.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder02.runtimeconfig.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder02.runtimeconfig.dev.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder02.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder02.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\refint\StringBuilder02.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder02.genruntimeconfig.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\StringBuilder\StringBuilder\obj\Debug\net5.0\ref\StringBuilder02.dll

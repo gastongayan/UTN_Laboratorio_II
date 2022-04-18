@@ -1,0 +1,5 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I03_Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I03_Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I03_Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I03_Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I03_Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache

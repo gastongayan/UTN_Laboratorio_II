@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aee9007c-0cb1-41b0-9be5-b41a082dcafd": {
+      "ProjectGuid": "aee9007c-0cb1-41b0-9be5-b41a082dcafd",
+      "DisplayName": "Metodos",
+      "ColorIndex": 0
+    },
+    "d905015c-ec59-4135-9f7d-bd979fefde4b": {
+      "ProjectGuid": "d905015c-ec59-4135-9f7d-bd979fefde4b",
+      "DisplayName": "Ejercicio_I02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

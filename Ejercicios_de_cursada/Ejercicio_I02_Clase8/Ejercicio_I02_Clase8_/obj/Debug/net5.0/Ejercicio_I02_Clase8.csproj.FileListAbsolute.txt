@@ -1,0 +1,16 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\bin\Debug\net5.0\Ejercicio_I02_Clase8.exe
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\bin\Debug\net5.0\Ejercicio_I02_Clase8.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\bin\Debug\net5.0\Ejercicio_I02_Clase8.runtimeconfig.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\bin\Debug\net5.0\Ejercicio_I02_Clase8.runtimeconfig.dev.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\bin\Debug\net5.0\Ejercicio_I02_Clase8.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\bin\Debug\net5.0\Ejercicio_I02_Clase8.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\refint\Ejercicio_I02_Clase8.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\Ejercicio_I02_Clase8.genruntimeconfig.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Ejercicio_I02_Clase8\Ejercicio_I02_Clase8_\obj\Debug\net5.0\ref\Ejercicio_I02_Clase8.dll

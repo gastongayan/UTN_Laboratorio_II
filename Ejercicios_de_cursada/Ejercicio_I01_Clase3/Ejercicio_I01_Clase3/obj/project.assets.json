@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Prestamos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Prestamos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Prestamos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prestamos/1.0.0": {
+      "type": "project",
+      "path": "../Prestamos/Prestamos.csproj",
+      "msbuildProject": "../Prestamos/Prestamos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Prestamos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gasto\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Gaston\\Documents\\CARRERA PROGRAMACION\\Laboratorio 2\\Ejercicios de cursada\\Ejercicio_I01_Clase3\\Ejercicio_I01_Clase3\\Ejercicio_I01_Clase3.csproj",
+      "projectName": "Ejercicio_I01_Clase3",
+      "projectPath": "D:\\Gaston\\Documents\\CARRERA PROGRAMACION\\Laboratorio 2\\Ejercicios de cursada\\Ejercicio_I01_Clase3\\Ejercicio_I01_Clase3\\Ejercicio_I01_Clase3.csproj",
+      "packagesPath": "C:\\Users\\gasto\\.nuget\\packages\\",
+      "outputPath": "D:\\Gaston\\Documents\\CARRERA PROGRAMACION\\Laboratorio 2\\Ejercicios de cursada\\Ejercicio_I01_Clase3\\Ejercicio_I01_Clase3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gasto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Gaston\\Documents\\CARRERA PROGRAMACION\\Laboratorio 2\\Ejercicios de cursada\\Ejercicio_I01_Clase3\\Prestamos\\Prestamos.csproj": {
+              "projectPath": "D:\\Gaston\\Documents\\CARRERA PROGRAMACION\\Laboratorio 2\\Ejercicios de cursada\\Ejercicio_I01_Clase3\\Prestamos\\Prestamos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

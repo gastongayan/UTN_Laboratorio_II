@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio_I02_Clase5/1.0.0": {
+        "dependencies": {
+          "Ingresantes": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_I02_Clase5.dll": {}
+        }
+      },
+      "Ingresantes/1.0.0": {
+        "runtime": {
+          "Ingresantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_I02_Clase5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ingresantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

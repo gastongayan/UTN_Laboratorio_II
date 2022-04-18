@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f659788e-15e1-41e5-be46-ed8e6bcff3d3": {
+      "ProjectGuid": "f659788e-15e1-41e5-be46-ed8e6bcff3d3",
+      "DisplayName": "Conversor",
+      "ColorIndex": 0
+    },
+    "a6f606f2-f60e-4610-a535-34bdb4be3351": {
+      "ProjectGuid": "a6f606f2-f60e-4610-a535-34bdb4be3351",
+      "DisplayName": "Ejercicio_I03",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
