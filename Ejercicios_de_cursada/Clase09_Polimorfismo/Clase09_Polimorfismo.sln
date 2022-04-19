@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase09_Polimorfismo", "Clase09_Polimorfismo\Clase09_Polimorfismo.csproj", "{5EDA923D-2F6F-4886-AADA-68D7807FB1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{D1690E97-3C03-43F0-9E36-82EA70F5D25B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDA923D-2F6F-4886-AADA-68D7807FB1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDA923D-2F6F-4886-AADA-68D7807FB1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDA923D-2F6F-4886-AADA-68D7807FB1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDA923D-2F6F-4886-AADA-68D7807FB1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1690E97-3C03-43F0-9E36-82EA70F5D25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1690E97-3C03-43F0-9E36-82EA70F5D25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1690E97-3C03-43F0-9E36-82EA70F5D25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1690E97-3C03-43F0-9E36-82EA70F5D25B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3986729-7A69-43DC-81FB-53EA2C807D47}
+	EndGlobalSection
+EndGlobal
